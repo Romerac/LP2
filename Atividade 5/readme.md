@@ -73,7 +73,8 @@ Crie um form com 2 TextBoxs (txtNumero1, txtNumero2) e:
 
 ------------------------------------------------------------------------------------------------
 
-#Ex1:
+# Ex1:
+
 Create an application named PTestingMethods and, in the main form (rename it to frmPrincipal), 
 add a MenuStrip component (from the "Menu & Toolbars" category).
 
@@ -94,7 +95,8 @@ set the ContextMenuStrip property to the corresponding menu.
 
 ------------------------------------------------------------------------------------------------
 
-#Ex2:
+# Ex2:
+
 Create a form with two TextBoxes (txtPalavra1, txtPalavra2) and:
 
 • A button to check if the two texts are equal (using the String.Compare method).
@@ -107,7 +109,8 @@ Length and Insert) and show the result in the second TextBox.
 
 ------------------------------------------------------------------------------------------------
 
-#Ex3:
+# Ex3:
+
 Create a form with two TextBoxes (txtPalavra1 and txtPalavra2) and:
 
 • A button that removes occurrences of TextBox1's text from TextBox2 (using Replace).
@@ -116,7 +119,8 @@ Create a form with two TextBoxes (txtPalavra1 and txtPalavra2) and:
 
 ------------------------------------------------------------------------------------------------
 
-#Ex4:
+# Ex4:
+
 Create a form with a RichTextBox component and:
 
 • A button that shows how many numeric characters exist in the component (using Char.IsNumber 
@@ -130,7 +134,8 @@ Char.IsLetter and foreach).
 
 ------------------------------------------------------------------------------------------------
 
-#Ex5:
+# Ex5:
+
 Create a form with two TextBoxes (txtNumero1, txtNumero2) and:
 
 • A button that performs a random draw between the first and second numbers (using Random).
