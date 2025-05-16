@@ -69,12 +69,12 @@ Crie um form com 2 TextBoxs (txtNumero1, txtNumero2) e:
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-# Ptestemetodos:
+# PTestingMethods:
 
 ------------------------------------------------------------------------------------------------
 
 #Ex1:
-Create an application named Ptestemetodos and, in the main form (rename it to frmPrincipal), 
+Create an application named PTestingMethods and, in the main form (rename it to frmPrincipal), 
 add a MenuStrip component (from the "Menu & Toolbars" category).
 
 • Menu – created using the MenuStrip component (Menu & Toolbars category).
