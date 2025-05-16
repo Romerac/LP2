@@ -2,7 +2,7 @@
 
 ------------------------------------------------------------------------------------------------
 
-#Ex1:
+# Ex1:
 
 Criar uma aplicação Ptestemetodos e no form principal (renomear para frmPrincipal) e acrescentar 
 um componente MenuStrip (categoria Menu & Toolbars)
